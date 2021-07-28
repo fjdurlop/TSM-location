@@ -1,0 +1,2 @@
+rootProject.name = "TSM-location"
+include ':app'
