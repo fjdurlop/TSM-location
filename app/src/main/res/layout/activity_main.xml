@@ -33,7 +33,8 @@
         android:layout_height="wrap_content"
         android:text="Save location"
         tools:layout_editor_absoluteX="158dp"
-        tools:layout_editor_absoluteY="233dp" />
+        tools:layout_editor_absoluteY="233dp"
+        android:onClick="pressButtonSaveLocation"/>
 
     <Space
         android:layout_width="match_parent"
@@ -63,6 +64,7 @@
         android:layout_height="wrap_content"
         android:text="OK"
         tools:layout_editor_absoluteX="159dp"
-        tools:layout_editor_absoluteY="443dp" />
+        tools:layout_editor_absoluteY="443dp"
+        android:onClick="pressButtonOK"/>
 
 </LinearLayout>
